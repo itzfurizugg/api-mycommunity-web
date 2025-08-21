@@ -1,7 +1,6 @@
 <h1>myCommunity CRUD website!</h1>
 
 <h2>WARNING! ⚠️</h2>
-
 this project including myCommunity API from previous repository, you need that for running this CRUD!
 
 <h2>Screenshot 📷</h2>
